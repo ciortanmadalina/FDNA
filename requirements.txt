@@ -1,0 +1,10 @@
+
+matplotlib
+numpy
+pandas
+seaborn
+scipy
+notebook
+scikit-learn
+umap-learn
+pickle
